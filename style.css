@@ -28,6 +28,13 @@ header {
 .header-conten img {
     height: 100px;
 }
+.FotosNuestras{
+    width: 50px;
+    height: auto;
+    border-radius: 11%;
+    object-fit: cover;
+
+}
 
 .header-nav a {
     font-family: 'Poppins', sans-serif;
